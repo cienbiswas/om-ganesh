@@ -17,7 +17,7 @@ export default function OmGaneshSite() {
       />
 
       {/* Header */}
-      <header className="flex justify-between items-center p-4 shadow-lg  sticky top-0 z-50 rounded-b-2xl">
+      <header className="flex justify-between items-center p-2 shadow-lg  sticky top-0 z-50 rounded-b-2xl">
         
         <h1 className="text-3xl font-bold text-amber-800 tracking-wide uppercase">Om Ganesh Certification</h1>
         <img 
