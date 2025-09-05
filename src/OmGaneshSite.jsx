@@ -34,10 +34,11 @@ export default function OmGaneshSite() {
             A Seal of Perfection, Purity & Trust
           </h2>
           <p className="max-w-2xl mx-auto text-xl text-gray-800 mb-10">
-            Om Ganesh Certification is your guarantee that every product fulfills its purpose in the best way possible. It embodies honesty, quality, and a spirit of joyful care.
+            Om Ganesh Certification is your guarantee that every product meets all needs and expectations to the most satisfying and genuine extent you could ask for. It masters qualities that are relevant to the physical and spiritual experience when using said product.
+            {/* honesty, quality, and a spirit of joyful care. */}
           </p>
           <button className="rounded-full bg-emerald-700 hover:bg-emerald-800 text-white px-10 py-4 text-lg shadow-lg">
-            Learn More
+            See Products
           </button>
 
         </motion.div>
@@ -46,18 +47,18 @@ export default function OmGaneshSite() {
       {/* About the Spirit */}
       <section className="grid md:grid-cols-3 gap-8 px-8 py-20 max-w-6xl mx-auto relative z-10">
         <div className="rounded-3xl shadow-xl bg-amber-100/90 p-8">
-          <h3 className="text-2xl font-semibold text-emerald-800 mb-4">🪷 Purity</h3>
-          <p className="text-gray-700">Every certified product meets the highest standard of cleanliness, honesty, and transparency.</p>
+          <h3 className="text-2xl font-semibold text-emerald-800 mb-4">🪷 Honesty</h3>
+          <p className="text-gray-700">Every certified product meets the highest standard of satisfaction, honesty, and transparency.</p>
         </div>
 
         <div className="rounded-3xl shadow-xl bg-rose-100/90 p-8">
-          <h3 className="text-2xl font-semibold text-amber-800 mb-4">🙏 Groundedness</h3>
-          <p className="text-gray-700">Rooted in the spirit of Om Ganesh, the certification brings balance and harmony to the marketplace.</p>
+          <h3 className="text-2xl font-semibold text-amber-800 mb-4">🙏 Presence</h3>
+          <p className="text-gray-700">Rooted in the spirit of Om Ganesh, the certification promises balance and groundedness to the user of the product.</p>
         </div>
 
         <div className="rounded-3xl shadow-xl bg-emerald-100/90 p-8">
             <h3 className="text-2xl font-semibold text-emerald-900 mb-4">🌿 Integrity</h3>
-            <p className="text-gray-800">Products carry the essence of trust and responsibility, aligned with the values of perfection and care.</p>
+            <p className="text-gray-800">Products are complete in itself, perfecly attuned and functioning in every detail as intended. They carry the essence of trust and responsibility, aligned with perfection and care.</p>
         </div>
       </section>
 
